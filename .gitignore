@@ -1,13 +1,2 @@
-Berlin GTFS data/agency.txt
-Berlin GTFS data/calendar_dates.txt
-Berlin GTFS data/calendar.txt
-Berlin GTFS data/frequencies.txt
-Berlin GTFS data/levels.txt
-Berlin GTFS data/pathways.txt
-Berlin GTFS data/routes.txt
-Berlin GTFS data/shapes.txt
-Berlin GTFS data/stop_times.txt
-Berlin GTFS data/stops.txt
-Berlin GTFS data/transfers.txt
-Berlin GTFS data/trips.txt
-Berlin GTFS data/0frequencies.txt
+Berlin GTFS data/*
+.env
